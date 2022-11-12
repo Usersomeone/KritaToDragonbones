@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=dragonbonesexport
+X-Python-2-Compatible=false
+X-Krita-Manual=manual.html
+Name=Dragonbones Export Plugin
+Comment=Export to Dragonbones JSON Format
